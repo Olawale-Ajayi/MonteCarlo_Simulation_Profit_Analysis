@@ -12,6 +12,7 @@ The daily Sales data consist of underlying incomplete data that needs to be clea
 to check for misssing values, mispelled entry and ommited entry. <br<
 Quick descriptive analysis of the sales data is carried out to remove outliers and far above the max and average for the daily sales revenue.
 The Cleaning process is well documented in one of the sheet in the attached (.xlsx file)
+![Screenshot (306)](https://user-images.githubusercontent.com/66826707/116709042-343e8d00-a9c8-11eb-954b-837383430f15.png)
 
 # Data Visualization
 
@@ -33,7 +34,7 @@ The maximum, Minimum, average, standard deviation from the 5000 simulation are o
 Simple Bar chart is insert as the bin is plotted against their frequency to get their chance of profit viabilty. 
 5000 simulations was run and the best performance as display in the chart shows that the retail store has a 75% chance of making profit between 0 and 2000 and 1% chance of loosing more than 4000 in profit. again this is well documented in the (.xlsx file)
 
-![image](https://user-images.githubusercontent.com/66826707/116706740-da3cc800-a9c5-11eb-87a7-1f2e5b7daf53.png)
+![Screenshot (307)](https://user-images.githubusercontent.com/66826707/116709364-82539080-a9c8-11eb-9f2b-9e553f88282c.png)
 
 
 
