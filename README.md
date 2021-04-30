@@ -3,13 +3,13 @@ Monte Carlo simulation analysis of profit viability of a retail store in UK carr
 
 # About The data
 
-The data is source from a retail store in the UK with daily sales data, The department and store name for each product in the store presented in an excel tables <br>
+The data is source from a retail store in the UK with daily sales data, The department and store name for each product in the store presented in an excel table <br>
 The Sales Store name and department are looked up with VLookup functions in excel into the sales data
 
 # Data cleaning and validation
 
 The daily Sales data consist of underlying incomplete data that needs to be cleaned and validated. This is done with data exploration with simple pivot table<br>
-to check for misssing values, mispelled entry and ommited entry. <br<
+to check for misssing values, mispelled entry and ommited entry. <br>
 Quick descriptive analysis of the sales data is carried out to remove outliers and far above the max and average for the daily sales revenue.
 The Cleaning process is well documented in one of the sheet in the attached (.xlsx file)
 ![Screenshot (306)](https://user-images.githubusercontent.com/66826707/116709042-343e8d00-a9c8-11eb-954b-837383430f15.png)
