@@ -15,6 +15,8 @@ The Cleaning process is well documented in one of the sheet in the attached (.xl
 
 # Data Visualization
 
+![Screenshot (305)](https://user-images.githubusercontent.com/66826707/116708626-cd20d880-a9c7-11eb-8d88-468d1352861f.png)
+
 Data analysis and aggregation is carried out along different metrics contributing to sales revenue. this implemented with Pivot table and presented in an interactive dashboard.<br>
 Sales by Store name, by promotion, Department and Time Series is presented in a charts showing how they contributed to daily sales. 
 This Dashboard is documented in one of the sheet in the (.xlsx file) attached.
